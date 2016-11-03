@@ -1,3 +1,3 @@
-Este arquivo está na branch master(padrao do projeto)
+Este arquivo está na branch master(padrao de projeto)
 
 e foi modificado na branch front-end
